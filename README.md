@@ -59,4 +59,7 @@ rosdep update
 roscore
 ```
 
+![roscore](roscore.png)
+
+
 
